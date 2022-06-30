@@ -1,0 +1,8 @@
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.AssemblyReference.cache
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.BMICalculcator.resources
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.GenerateResource.cache
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.vb
+E:\Visual Studio\Projects\LabExercise5\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.CoreCompileInputs.cache
